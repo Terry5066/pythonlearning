@@ -8,4 +8,5 @@ if x>20:
 a=6
 if a==6:
     print ("equals 6")
-if a > 4
+if a > 4:
+    print("bigger")
