@@ -14,7 +14,7 @@ else:
     print ('not present')
 
 print ("mpofu" not in a)
-
+n
 
 
 for x in "banana":
