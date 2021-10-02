@@ -26,4 +26,33 @@ print(thislist)
 thislist.append("orange")
 print(thislist)
 
-print()
+cars=list(("nissan","audi","bmw","toyota","mazda","benz"))
+thislist = ["apple", "banana", "cherry"]
+cars.extend(thislist)
+print(cars)
+
+thislist = ["apple", "banana", "cherry"]
+thistuple=("kiwi",'orange')
+thislist.extend(thistuple)
+print(thislist)
+
+del thislist[2]
+print(thislist)
+
+print(thislist.pop())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
