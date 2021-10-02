@@ -2,6 +2,9 @@ thistuple = ("apple", "banana", "cherry")
 if "apple" in thistuple:
     print("yes its there")
 
+
+#unpacking a tuple
+
 (green,yellow,red)=thistuple
 print(green,yellow,red)
 
